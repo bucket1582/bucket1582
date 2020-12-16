@@ -1,8 +1,5 @@
 ### Bucket1572 소개
 
-<!--
-**Bucket1572/Bucket1572** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 ## (¬‿¬) 주로 사용하는 언어
 - **✨Python** ~~특히 turtle 모듈~~
 - Kotlin
