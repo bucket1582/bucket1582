@@ -4,7 +4,7 @@
 - **✨Python** ~~특히 turtle 모듈~~
 - Kotlin
 - Java
-- 
+- Godot Script
 
 ## (⊙_⊙;) 가~끔 사용하는 언어
 - C / C++ / C#
