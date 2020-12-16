@@ -1,4 +1,4 @@
-### Hi there 👋
+### 아--- 대학교 가고 싶다.
 
 <!--
 **Bucket1572/Bucket1572** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
