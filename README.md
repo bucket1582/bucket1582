@@ -1,16 +1,21 @@
-### 아--- 대학교 가고 싶다.
+### Bucket1572 소개
 
 <!--
 **Bucket1572/Bucket1572** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## (¬‿¬) 주로 사용하는 언어
+- **✨Python** ~~특히 turtle 모듈~~
+- Kotlin
+- Java
+~~- Godot Script~~
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## (⊙_⊙;) 가~끔 사용하는 언어
+- C / C++ / C#
+- Javascipt
+
+## (⌐■_■) 배우고자 하는 언어
+- ELM
+
+## (╯°□°）╯︵ ┻━┻ 최근 진행 중인 프로젝트
+- 졸업 기념 작품 ~~w. Python Turtle~~
+- 마인크래프트 초능력자 플러그인 개발
