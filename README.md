@@ -1,5 +1,9 @@
 ### Bucket1572 소개
 
+## 현재 소속
+- 하나고등학교 3학년 재학생 ~~이었던 사람~~ → 현재 졸업 직전
+- 입학하는 대학교는... 지금 기간에 쓰기는 좀 그렇다. (^///^)
+
 ## (¬‿¬) 주로 사용하는 언어
 - **✨Python** ~~특히 turtle 모듈~~
 - Kotlin
@@ -15,4 +19,7 @@
 
 ## (╯°□°）╯︵ ┻━┻ 최근 진행 중인 프로젝트
 - 졸업 기념 작품 ~~w. Python Turtle~~
-- 마인크래프트 초능력자 플러그인 개발
+- 마인크래프트 초능력자 플러그인 개발 → [AbilityIsScience](https://github.com/Bucket1572/AbilityIsScience)
+
+## ╰(*°▽°*)╯ 완료(업데이트는 계속 할 예정)했고 뿌듯한 프로젝트
+- Turtle로 구현한 테트리스 → [Turtris](https://github.com/Bucket1572/Turtris)
