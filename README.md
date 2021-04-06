@@ -18,6 +18,7 @@
 - ELM
 
 ## (╯°□°）╯︵ ┻━┻ 최근 진행 중인 프로젝트
+- 깃험 페이지 블로그 개설 → [Bucket1572.github.io](https://github.com/Bucket1572/Bucket1572.github.io)
 - 마인크래프트 초능력자 플러그인 개발 → [AbilityIsScience](https://github.com/Bucket1572/AbilityIsScience)
 - 마인크래프트 야생 플러그인 개발 → [ClumsyCrafting](https://github.com/Bucket1572/ClumsyCrafting)
 
