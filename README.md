@@ -12,6 +12,7 @@
 ## (⊙_⊙;) 가~끔 사용하는 언어
 - C / C++ / C#
 - Javascipt
+- GodotScript
 
 ## (⌐■_■) 배우고자 하는 언어
 - ELM
