@@ -7,7 +7,7 @@
 ## (¬‿¬) 주로 사용하는 언어
 - Data Analysis : Python
 - App/Web Development : Java & Kotlin
-- Something Strage : Python ~~Turtle~~
+- Something Strange : Python ~~Turtle~~
 
 ## (⊙_⊙;) 가~끔 사용하는 언어
 - C / C++ / C#
