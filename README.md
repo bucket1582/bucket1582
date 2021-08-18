@@ -10,12 +10,9 @@
 - Something Strange : Python ~~Turtle~~
 
 ## (⊙_⊙;) 가~끔 사용하는 언어
-- C / C++ / C#
+- C / C++
 - Javascipt
 - GodotScript
-
-## (⌐■_■) 배우고자 하는 언어
-- ELM
 
 ## (╯°□°）╯︵ ┻━┻ 최근 진행 중인 프로젝트
 - 깃험 페이지 블로그 개설 → [Bucket1572.github.io](https://github.com/Bucket1572/Bucket1572.github.io)
