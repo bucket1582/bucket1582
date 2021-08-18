@@ -5,9 +5,9 @@
 - 연세대학교 컴퓨터 과학과 21학번
 
 ## (¬‿¬) 주로 사용하는 언어
-- **✨Python** ~~특히 turtle 모듈~~
-- Kotlin
-- Java
+- Data Analysis : Python
+- App/Web Development : Java & Kotlin
+- Something Strage : Python ~~Turtle~~
 
 ## (⊙_⊙;) 가~끔 사용하는 언어
 - C / C++ / C#
