@@ -1,4 +1,3 @@
-[![Bucket1572's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bucket1572)](https://github.com/Bucket1572/github-readme-stats)
 ### Bucket1572 소개
 
 ## 현재 소속
@@ -25,3 +24,6 @@
 - Turtle로 구현한 테트리스 → [Turtris](https://github.com/Bucket1572/Turtris)
 - Turtle로 구현한 2D 플랫포머 → [2D-Turtle-Platformer](https://github.com/Bucket1572/2D-Turtle-Platformer)
 - 봄감자 플러그인 → [SpringPotato](https://github.com/Bucket1572/SpringPotato)
+
+## Stats
+<center>[![Bucket1572's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bucket1572)](https://github.com/Bucket1572/github-readme-stats)</center>
