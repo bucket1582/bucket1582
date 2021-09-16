@@ -1,4 +1,4 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Bucket1572's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bucket1572)](https://github.com/Bucket1572/github-readme-stats)
 ### Bucket1572 소개
 
 ## 현재 소속
