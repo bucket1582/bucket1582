@@ -17,7 +17,6 @@
 ## (╯°□°）╯︵ ┻━┻ 최근 진행 중인 프로젝트
 - 깃험 페이지 블로그 개설 → [Bucket1572.github.io](https://github.com/Bucket1572/Bucket1572.github.io)
 - 이모티 백엔드 프로젝트 → [Javaccino](https://github.com/PoolC/Javaccino)
-- 창의플랫폼 혐오 표현 가리개 → [hate-speech-detection](https://github.com/bigbr4in0614/hate-speech-detection)
 - 알고리즘 공부 → [Algorithm-Practice](https://github.com/Bucket1572/Algorithm-Practice)
 
 ## ╰(*°▽°*)╯ 완료(업데이트는 계속 할 예정?)했고 뿌듯한 프로젝트
