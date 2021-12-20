@@ -20,7 +20,6 @@
 - 알고리즘 공부 → [Algorithm-Practice](https://github.com/Bucket1572/Algorithm-Practice)
 
 ## ╰(*°▽°*)╯ 완료(업데이트는 계속 할 예정?)했고 뿌듯한 프로젝트
-- Turtle로 구현한 테트리스 → [Turtris](https://github.com/Bucket1572/Turtris)
 - Turtle로 구현한 2D 플랫포머 → [2D-Turtle-Platformer](https://github.com/Bucket1572/2D-Turtle-Platformer)
 - 봄감자 플러그인 → [SpringPotato](https://github.com/Bucket1572/SpringPotato)
 
