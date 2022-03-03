@@ -24,4 +24,4 @@
 - 봄감자 플러그인 → [SpringPotato](https://github.com/Bucket1572/SpringPotato)
 
 ## Stats
-[![Bucket1572's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bucket1572)](https://github.com/Bucket1572)
+[![Bucket1572's GitHub stats](https://github-readme-stats.vercel.app/api?username=bucket1582)](https://github.com/bucket1582)
