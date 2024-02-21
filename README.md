@@ -17,6 +17,7 @@
 - 깃험 페이지 블로그 개설 → [bucket1582.github.io](https://github.com/bucket1582/bucket1582.github.io)
 - 알고리즘 공부 → [Algorithm-Practice](https://github.com/bucket1582/Algorithm-Practice)
 - 미니게임 셔플 → [MinigameShuffle](https://github.com/bucket1582/MinigameShuffle)
+- 알쓸신잡용 사이트 개발
 - 여러가지 논리 문제 출제
 
 ## ╰(*°▽°*)╯ 완료(업데이트는 계속 할 예정?)했고 뿌듯한 프로젝트
