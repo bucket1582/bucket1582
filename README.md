@@ -13,8 +13,8 @@
 
 ## (╯°□°）╯︵ ┻━┻ 최근 진행 중인 프로젝트
 - 깃험 페이지 블로그 개설 → [bucket1582.github.io](https://github.com/bucket1582/bucket1582.github.io)
-- 미니게임 셔플 → [MinigameShuffle](https://github.com/bucket1582/MinigameShuffle) (Pending)
 - 알쓸신잡용 사이트 개발
+- 새로운 마인크래프트 플러그인 (구상 단계)
 
 ## ╰(*°▽°*)╯ 완료(업데이트는 계속 할 예정?)했고 뿌듯한 프로젝트
 - 이모티 백엔드 프로젝트 → [Javaccino](https://github.com/PoolC/Javaccino)
