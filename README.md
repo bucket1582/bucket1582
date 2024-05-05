@@ -9,6 +9,7 @@
 - FE : Typescript (Clumsy)
 - BE : Java
 - Algorithm Solving : Python & C++
+- Game Development : C# (Unity) / GDScript (Godot)
 - Something Strange : Python ~~Turtle~~
 
 ## (╯°□°）╯︵ ┻━┻ 최근 진행 중인 프로젝트
