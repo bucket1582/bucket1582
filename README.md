@@ -20,7 +20,7 @@
 ## ╰(*°▽°*)╯ 완료(업데이트는 계속 할 예정?)했고 뿌듯한 프로젝트
 - 이모티 백엔드 프로젝트 → [Javaccino](https://github.com/PoolC/Javaccino)
 - 봄감자 플러그인 → [SpringPotato](https://github.com/bucket1582/SpringPotato)
-- 혐오 표현 가리개 프로젝트 → [hate-speech-detectio](https://github.com/bucket1582/hate-speech-detection)
+- 혐오 표현 가리개 프로젝트 → [hate-speech-detection](https://github.com/bucket1582/hate-speech-detection)
 
 ## Stats
 [![Bucket1572's GitHub stats](https://github-readme-stats.vercel.app/api?username=bucket1582)](https://github.com/bucket1582)
