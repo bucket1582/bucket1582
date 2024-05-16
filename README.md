@@ -16,6 +16,7 @@
 - 깃험 페이지 블로그 개설 → [bucket1582.github.io](https://github.com/bucket1582/bucket1582.github.io)
 - 알쓸신잡용 사이트 개발
 - 게임 개발
+- 프로젝트 어시스턴트
 
 ## ╰(*°▽°*)╯ 완료(업데이트는 계속 할 예정?)했고 뿌듯한 프로젝트
 - 이모티 백엔드 프로젝트 → [Javaccino](https://github.com/PoolC/Javaccino)
