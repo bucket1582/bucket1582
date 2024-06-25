@@ -17,9 +17,13 @@
 - 알쓸신잡용 사이트 개발
 - 게임 개발
 - 프로젝트 어시스턴트
-- TurtlePenTool
+- Contributing to Pokerogue
 
-## ╰(*°▽°*)╯ 완료(업데이트는 계속 할 예정?)했고 뿌듯한 프로젝트
+## ╰(*°▽°*)╯ 완료했고 업데이트할 수도 있는 프로젝트
+- [TurtlePenTool](https://github.com/bucket1582/TurtlePenTool) → TurtleHQGraphics
+
+
+## (＾Ｕ＾)ノ~ＹＯ 아예 완료한 프로젝트
 - 이모티 백엔드 프로젝트 → [Javaccino](https://github.com/PoolC/Javaccino)
 - 봄감자 플러그인 → [SpringPotato](https://github.com/bucket1582/SpringPotato)
 - 혐오 표현 가리개 프로젝트 → [hate-speech-detection](https://github.com/bucket1582/hate-speech-detection)
