@@ -15,7 +15,6 @@
 ## (╯°□°）╯︵ ┻━┻ 최근 진행 중인 프로젝트
 - 깃험 페이지 블로그 개설 → [bucket1582.github.io](https://github.com/bucket1582/bucket1582.github.io)
 - 게임 개발
-- LLM 연구 프로젝트 어시스턴트
 
 ## ╰(*°▽°*)╯ 완료했고 업데이트할 수도 있는 프로젝트
 - [TurtlePenTool](https://github.com/bucket1582/TurtlePenTool) → TurtleHQGraphics
@@ -25,6 +24,7 @@
 - 이모티 백엔드 프로젝트 → [Javaccino](https://github.com/PoolC/Javaccino)
 - 봄감자 플러그인 → [SpringPotato](https://github.com/bucket1582/SpringPotato)
 - 혐오 표현 가리개 프로젝트 → [hate-speech-detection](https://github.com/bucket1582/hate-speech-detection)
+- LLM 연구 프로젝트 어시스턴트
 
 ## （＾∀＾●）ﾉｼ 참여한 오픈 소스 프로젝트
 - Pokerogue
