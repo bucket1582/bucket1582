@@ -22,7 +22,7 @@
 - 이모티 백엔드 프로젝트 → [Javaccino](https://github.com/PoolC/Javaccino)
 - 봄감자 플러그인 → [SpringPotato](https://github.com/bucket1582/SpringPotato)
 - 혐오 표현 가리개 프로젝트 → [hate-speech-detection](https://github.com/bucket1582/hate-speech-detection)
-- C²: Scalable Auto-Feedback for LLM-based Chart Generation → [https://chartsquared.github.io/]
+- Chart를 생성하는 LLM Agent → [C^2: Scalable Auto-Feedback for LLM_based Chart Generation](https://chartsquared.github.io/)
 
 ## （＾∀＾●）ﾉｼ 참여한 오픈 소스 프로젝트
 - Pokerogue
