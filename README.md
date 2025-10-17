@@ -32,6 +32,12 @@
   * 전투 로직
   * 적 패턴 로직
   * 카드 능력 구성 로직 (굉장히 제네릭한 방법이 필요했음)
+- WebGL 기반 애플리케이션 개발 (컴퓨터 그래픽스 2025 1학기 조별과제) → [제 1공학관](https://github.com/bucket1582/Engineering-building-1)
+  * 조명 (형광등) - 깜박이기, 서서히 켜지기 등등
+  * Promise 관리
+  * 리팩토링
+  * 이벤트 시스템 및 충돌 이벤트
+  * 전반적인 레벨 진행
 
 ## （＾∀＾●）ﾉｼ 참여한 오픈 소스 프로젝트
 - Pokerogue → [Multi Target Damage Penaly Implmentation](https://github.com/pagefaultgames/pokerogue/pull/2329)
