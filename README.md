@@ -4,27 +4,28 @@
 - 연세대학교 컴퓨터 과학과 21학번
 
 ## (¬‿¬) 주로 사용하는 언어
-- Data Analysis : Python
-- Minecraft Plugin Development : Kotlin
-- FE : Typescript (Clumsy)
-- BE : Java
-- Algorithm Solving : Python & C++
-- Game Development : C# (Unity) / GDScript (Godot)
-- Something Strange : Python ~~Turtle~~
+- Data Analysis, AI Research: Python
+- Minecraft Plugin Development: Kotlin
+- FE: Typescript (Clumsy), Javascript
+- BE: Java, Python
+- Algorithm Solving: Python, C++
+- Game Development: C# (Unity) / GDScript (Godot)
+- Something Strange: Python ~~Turtle~~
 
 ## (╯°□°）╯︵ ┻━┻ 최근 진행 중인 프로젝트
-- ???
+- Chaos!
 
 ## ╰(*°▽°*)╯ 완료했고 업데이트할 수도 있는 프로젝트
 - Currently None
 
 ## (＾Ｕ＾)ノ~ＹＯ 아예 완료한 프로젝트
-- 이모티(SNS) 백엔드: [Javaccino](https://github.com/PoolC/Javaccino)
-- 혐오 표현을 가려주는 크롬 확장 프로그램: [hate-speech-detection](https://github.com/bucket1582/hate-speech-detection)
-- Chart를 생성하는 LLM Agent: [C^2: Scalable Auto-Feedback for LLM_based Chart Generation](https://chartsquared.github.io/)
+- 이모티(SNS) 백엔드 → [Javaccino](https://github.com/PoolC/Javaccino)
+- 혐오 표현을 가려주는 크롬 확장 프로그램 → [hate-speech-detection](https://github.com/bucket1582/hate-speech-detection)
+- Chart Data를 생성하는 LLM Agent → [C^2: Scalable Auto-Feedback for LLM_based Chart Generation](https://chartsquared.github.io/)
+- 덱빌딩 로그라이크 게임 (개발 중 무산) → [서울탑 등반기](https://github.com/bucket1582/SeoulTowerHunters)
 
 ## （＾∀＾●）ﾉｼ 참여한 오픈 소스 프로젝트
-- Pokerogue
+- Pokerogue → [Multi Target Damage Penaly Implmentation](https://github.com/pagefaultgames/pokerogue/pull/2329)
 
 ## (*/ω＼*) 소규모/개인 프로젝트
 - 조금 불편한 마인크래프트 야생 플러그인 → [ClumsyCrafting](https://github.com/bucket1582/ClumsyCrafting)
