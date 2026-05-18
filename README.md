@@ -12,8 +12,18 @@
 - Game Development: C# (Unity) / GDScript (Godot)
 - Something Strange: Python ~~Turtle~~
 
+## ☆*: .｡. o(≧▽≦)o .｡.:*☆ 구상 중인 프로젝트
+- Minigame Shuffle Datapack
+  * Opensource 프로젝트로 할 예정
+  * Minigame을 관리하는 모든 뼈대는 미리 완성해둘 예정
+  * 미니게임을 최소 100개 구현하는 것을 목표로 함
+  * 기술 스택은 Sandstone (마인크래프트 데이터팩 컴파일러; Typescript)
+- 저정밀도 프로그래밍 시뮬레이션
+  * 저정밀도 연산기를 가지고 프로그래밍 하는 시뮬레이션 게임
+  * 기술 스택은 Unity (C#)
+
 ## (╯°□°）╯︵ ┻━┻ 최근 진행 중인 프로젝트
-- Chaos!
+- 졸업 프로젝트
 
 ## ╰(*°▽°*)╯ 완료했고 업데이트할 수도 있는 프로젝트
 - Currently None
